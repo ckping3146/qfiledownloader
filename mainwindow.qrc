@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>Resources/g1.jpg</file>
+    <file>Resources/panda_monalisa.jpg</file>
+    <file>Resources/test0.png</file>
+    <file>Resources/test1.png</file>
+    <file>Resources/test2.png</file>
+    <file>Resources/test3.png</file>
+    <file>Resources/test4.png</file>
+  </qresource>
+</RCC>
